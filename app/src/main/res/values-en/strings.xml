@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">13AndroidAppToanCau</string>
+    <string name="gmail">"input gmail "</string>
+    <string name="hoTen">input name</string>
+    <string name="input">Confirm</string>
+    <string name="phieuThongTin">INFORMATION FORM</string>
+    <string name="soDienThoai">input telephone</string>
+    <string name="text_ChaoBan">hello you</string>
+    <string name="text_email">input email</string>
+    <string name="text_soDienThoai">number telephone</string>
+</resources>

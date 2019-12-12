@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">13AndroidAppToanCau</string>
+    <string name="hoTen">nhập họ tên</string>
+    <string name="gmail">nhập email</string>
+    <string name="soDienThoai">nhập số điện thoại</string>
+    <string name="input">xác nhận</string>
+    <string name="phieuThongTin">Phiếu Thông Tin</string>
+    <string name="text_ChaoBan">chào bạn</string>
+    <string name="text_email">email</string>
+    <string name="text_soDienThoai">số điện thoại</string>
+</resources>
