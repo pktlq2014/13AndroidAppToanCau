@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:layout_height="match_parent"
+<LinearLayout android:layout_height="match_parent"
     android:layout_width="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <TextView
@@ -67,4 +69,24 @@
         android:layout_below="@id/butTon1"
         android:layout_marginTop="20dp"
         />
-</RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        >
+        <ImageView
+            android:layout_height="50dp"
+            android:layout_width="50dp"
+            android:src="@mipmap/vietnam"
+            android:id="@+id/imageView1"
+            />
+        <ImageView
+            android:layout_height="50dp"
+            android:layout_width="50dp"
+            android:src="@mipmap/america"
+            android:layout_marginLeft="20dp"
+            android:id="@+id/imageView2"
+            />
+    </LinearLayout>
+</LinearLayout>
